@@ -1,0 +1,20 @@
+{
+  "name": "e2e",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "cypress open"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.9.0",
+    "@babel/register": "^7.9.0",
+    "@testing-library/cypress": "^6.0.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "babel-register": "^6.26.0",
+    "cypress": "^4.4.0",
+    "faker": "^4.1.0"
+  },
+  "dependencies": {
+    "cypress": "^4.4.0"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "baseUrl": "http://localhost:8910",
+  "env": {
+    "DATABASE_URL": "file:../api/prisma/dev.db"
+  }
+}
